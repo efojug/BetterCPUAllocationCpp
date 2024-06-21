@@ -31,3 +31,5 @@
 *.out
 *.app
 /.vs/BetterCPUAllocationCpp
+/BetterCP.17d36deb/x64/Debug
+/x64/Debug
